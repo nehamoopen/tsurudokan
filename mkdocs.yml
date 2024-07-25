@@ -1,0 +1,10 @@
+site_name: tsurudokan
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    scheme: slate
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky

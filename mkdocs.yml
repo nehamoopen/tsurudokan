@@ -1,6 +1,11 @@
 site_name: tsurudokan
+site_url: https://nehamoopen.github.io/tsurudokan
+repo_url: https://github.com/nehamoopen/tsurudokan
+repo_name: nehamoopen/tsurudokan
+edit_uri: edit/main/docs/
 theme:
   name: material
+  logo: assets/martial-arts-uniform.png
   palette:
     primary: deep orange
     scheme: slate
@@ -8,3 +13,12 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - content.action.view
+    - content.action.edit
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - search

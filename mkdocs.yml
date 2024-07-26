@@ -11,6 +11,7 @@ theme:
     scheme: slate
     accent: deep orange
   features:
+    - navigation.indexes
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path

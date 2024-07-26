@@ -1,3 +1,3 @@
-# Welcome
+# Kobudo
 
 resources for kobudo

@@ -1,3 +1,0 @@
-# Kobudo
-
-resources for kobudo

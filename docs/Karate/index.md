@@ -1,3 +1,0 @@
-# Karate
-
-resources for karate

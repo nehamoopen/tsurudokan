@@ -1,1 +1,0 @@
-# Kihon Kumite

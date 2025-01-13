@@ -6,6 +6,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   logo: assets/martial-arts-uniform.png
+  favicon: assets/martial-arts-uniform.png
   palette:
     primary: deep orange
     scheme: slate
